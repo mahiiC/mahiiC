@@ -1,13 +1,9 @@
 ### :wave: Hi there I'm Mahima! 
 :nerd_face: An undergraduate student pursuring B.Tech Biotechnology 
-My areas of interest include in Bioinformatics and Industrial Microbiology
 
-Currently learning R programming and learning how to make Bioinformatics related projects on Github 
+:seedling: I'm Currently learning R programming and exploring the applications of Machine Learning and Data Science in Biotechnology
 
-- Reach out to me at
-chakrabortymahima2003@gmail.com
-or,
-https://www.linkedin.com/in/mahimachakraborty/
+:sunflower: Feel free to reach out to me at chakrabortymahima2003@gmail.com or https://www.linkedin.com/in/mahimachakraborty/
 
 
 <!---
