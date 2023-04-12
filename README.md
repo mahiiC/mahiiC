@@ -1,4 +1,5 @@
-An undergraduate student pursuring B.Tech Biotechnology 
+### :wave: Hi there I'm Mahima! 
+:nerd_face: An undergraduate student pursuring B.Tech Biotechnology 
 My areas of interest include in Bioinformatics and Industrial Microbiology
 
 Currently learning R programming and learning how to make Bioinformatics related projects on Github 
