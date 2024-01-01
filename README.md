@@ -1,9 +1,11 @@
-### :wave: Hi there I'm Mahima! 
+## :wave: Hi there I'm Mahima! 
 :nerd_face: An undergraduate student pursuring B.Tech Biotechnology 
 
 :seedling: I'm Currently learning R programming and exploring the applications of Machine Learning and Data Science in Biotechnology
 
-:sunflower: Feel free to reach out to me at chakrabortymahima2003@gmail.com or https://www.linkedin.com/in/mahimachakraborty/
+### Let's connect!
+
+<a href=”https://www.linkedin.com/in/mahimachakraborty/"><img align=”left” src=”https://raw.githubusercontent.com/mahiiC/mahiiC/blob/main/images/linkedin-icon-3.svg" alt=”Mahima | LinkedIn” width=”21px”/></a>
 
 
 <!---
