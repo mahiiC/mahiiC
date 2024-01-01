@@ -1,7 +1,8 @@
-## :wave: Hi there I'm Mahima! 
-:nerd_face: An undergraduate student pursuring B.Tech Biotechnology 
+  ## Hi :wave:, I'm Mahima!
+  
+**I'm an undergraduate student pursuring B.Tech Biotechnology with a keen interest in programming! I'm particularly drawn to the fascinating topics of Machine Learning and Bioinformatics, and their applications in the healthcare industry.**
 
-:seedling: I'm Currently learning R programming and exploring the applications of Machine Learning and Data Science in Biotechnology
+:seedling: Currently learning: R programming, Machine Learning
 
 ### Let's connect!
 <p>
@@ -9,9 +10,6 @@
     <img align=”left” src=”https://raw.githubusercontent.com/mahiiC/mahiiC/blob/main/images/linkedin-icon-3.svg" alt="Mahima | Linkedin" width=”25px”/>
   </a> 
 </p>
-
- 
-
 
 
 
