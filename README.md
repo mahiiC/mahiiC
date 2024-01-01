@@ -4,8 +4,15 @@
 :seedling: I'm Currently learning R programming and exploring the applications of Machine Learning and Data Science in Biotechnology
 
 ### Let's connect!
+<p>
+  <a href=”https://www.linkedin.com/in/mahimachakraborty/">
+    <img align=”left” src=”https://raw.githubusercontent.com/mahiiC/mahiiC/blob/main/images/linkedin-icon-3.svg" width=”21px”/>
+  </a>
+</p>
 
-<a href=”https://www.linkedin.com/in/mahimachakraborty/"><img align=”left” src=”https://raw.githubusercontent.com/mahiiC/mahiiC/blob/main/images/linkedin-icon-3.svg" alt=”Mahima | LinkedIn” width=”21px”/></a>
+ 
+
+
 
 
 <!---
