@@ -6,8 +6,8 @@
 ### Let's connect!
 <p>
   <a href=”https://www.linkedin.com/in/mahimachakraborty/">
-    <img align=”left” src=”https://raw.githubusercontent.com/mahiiC/mahiiC/blob/main/images/linkedin-icon-3.svg" alt="Linkedin" width=”21px”/>
-  </a>
+    <img align=”left” src=”https://raw.githubusercontent.com/mahiiC/mahiiC/blob/main/images/linkedin-icon-3.svg" alt="Mahima | Linkedin" width=”25px”/>
+  </a> 
 </p>
 
  
