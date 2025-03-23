@@ -2,10 +2,11 @@
   
 <h3 align="center"> I'm an undergraduate student pursuring B.Tech Biotechnology with a keen interest in programming! I'm particularly drawn to the fascinating topics of Machine Learning and Bioinformatics, and their applications in the healthcare industry. </h3>
 
-:seedling: **Currently learning:** R programming, Machine Learning
+:seedling: **Currently learning:** Machine Learning, NGS Data Analysis
 
 **Technical Skills :** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+! [Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **ML libraries :** ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
