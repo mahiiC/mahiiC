@@ -1,6 +1,6 @@
 <h1 align="center"> Hi :wave:, I'm Mahima!</h1>
   
-<h3 align="center"> I'm an undergraduate student pursuring B.Tech Biotechnology with a keen interest in programming! I'm particularly drawn to the fascinating topics of Machine Learning and Bioinformatics, and their applications in the healthcare industry. </h3>
+<h3 align="center"> I'm a final-year undergraduate student pursuring B.Tech Biotechnology with a keen interest in programming! I'm particularly drawn to the fascinating topics of Machine Learning and Bioinformatics, and their applications in the healthcare industry. </h3>
 
 :seedling: **Currently learning:** Machine Learning, NGS Data Analysis
 
