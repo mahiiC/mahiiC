@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahiiC&show_icons=true&locale=en&layout=compact&theme=dark" alt="mahiiC" height="180px"/ />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahiiC&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true&hide=html,php,css,jupyter%20notebook" alt="mahiiC" height="180px"/ />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahiiC&layout=compact&theme=dark&count_private=true&show_icons=true&include_all_commits=true" alt="mahiiC" height="180px"/>
 </p>
 
 
