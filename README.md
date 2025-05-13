@@ -29,7 +29,10 @@
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : chakrabortymahima2003@gmail.com
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahiiC&show_icons=true&locale=en&layout=compact" alt="mahiiC" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahiiC&show_icons=true&locale=en&layout=compact&theme=dark" alt="mahiiC" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahiiC&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true&hide=html,php,css,jupyter%20notebook" alt="mahiiC" />
+</p>
 
 
 
