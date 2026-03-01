@@ -1,9 +1,15 @@
 <h1 align="center"> Hi :wave:, I'm Mahima!</h1>
   
-<h3 align="center"> I'm currently a Masters by Research student at IIIT Hyderabad majoring in Bioinformatics. I'm particularly drawn to the fascinating topics of Omics data analysis, and Machine Learning and its applications in Bioinformatics. </h3>
+<h3 align="center"> I'm currently a Masters by Research student at IIIT Hyderabad majoring in Bioinformatics and am also working as a part-time researcher at my university. My research interests include: 
+  - Multi-Omics data integration using Systems-level approaches for Cancer Biomarker Discovery  
+  - Comparative Genomics and Disease Evolution  
+  - AI in Diagnostic and Prognostic Medical Imaging. </h3>
 
-:seedling: **Currently learning:** Machine Learning, NGS Data Analysis, Multi-Omics Data Analysis
-
+:seedling: **Currently working on:** 
+- Integrating Somatic mutation and CNV data for network-based stratification  
+- Survival modeling for subtype validation  
+- Bulk RNA-seq and Microarray data analysis pipelines  
+  
 **Programming Languages :** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
