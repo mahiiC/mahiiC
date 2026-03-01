@@ -2,7 +2,7 @@
   
 <h3 align="center"> I'm currently a Masters by Research student at IIIT Hyderabad majoring in Bioinformatics and am also working as a part-time researcher at my university. </h3>
   
-  My research interests include: 
+  **My research interests include:**
   - Multi-Omics data integration using Systems-level approaches for Cancer Biomarker Discovery  
   - Comparative Genomics and Disease Evolution  
   - AI in Diagnostic and Prognostic Medical Imaging. 
